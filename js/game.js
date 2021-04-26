@@ -65,10 +65,7 @@ class Game{
 
                          
                      }
-                  
-                     fill("white");
-                     textSize(25);
-                     text("Player :" + index + allPlayers[plr].score, 100, sy);
+
                  
                  }
                 
